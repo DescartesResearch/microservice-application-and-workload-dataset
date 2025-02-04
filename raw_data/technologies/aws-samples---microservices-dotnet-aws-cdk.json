@@ -1,0 +1,413 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "880c7ca6e561a3be4698427e766389fcb4d48826",
+        "url": "https://api.github.com/repositories/441326534/contents/README.md?ref=0f311b89f9f2bf04906ae6d91f7be442938b1b10",
+        "git_url": "https://api.github.com/repositories/441326534/git/blobs/880c7ca6e561a3be4698427e766389fcb4d48826",
+        "html_url": "https://github.com/aws-samples/microservices-dotnet-aws-cdk/blob/0f311b89f9f2bf04906ae6d91f7be442938b1b10/README.md",
+        "repository": {
+          "id": 441326534,
+          "node_id": "R_kgDOGk4bxg",
+          "name": "microservices-dotnet-aws-cdk",
+          "full_name": "aws-samples/microservices-dotnet-aws-cdk",
+          "private": false,
+          "owner": {
+            "login": "aws-samples",
+            "id": 8931462,
+            "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MzE0NjI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8931462?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/aws-samples",
+            "html_url": "https://github.com/aws-samples",
+            "followers_url": "https://api.github.com/users/aws-samples/followers",
+            "following_url": "https://api.github.com/users/aws-samples/following{/other_user}",
+            "gists_url": "https://api.github.com/users/aws-samples/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/aws-samples/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/aws-samples/subscriptions",
+            "organizations_url": "https://api.github.com/users/aws-samples/orgs",
+            "repos_url": "https://api.github.com/users/aws-samples/repos",
+            "events_url": "https://api.github.com/users/aws-samples/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/aws-samples/received_events",
+            "type": "Organization",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/aws-samples/microservices-dotnet-aws-cdk",
+          "description": "This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs.",
+          "fork": false,
+          "url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk",
+          "forks_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/forks",
+          "keys_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/teams",
+          "hooks_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/hooks",
+          "issue_events_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/events",
+          "assignees_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/tags",
+          "blobs_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/languages",
+          "stargazers_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/stargazers",
+          "contributors_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/contributors",
+          "subscribers_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/subscribers",
+          "subscription_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/subscription",
+          "commits_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/merges",
+          "archive_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/downloads",
+          "issues_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/labels{/name}",
+          "releases_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "code_snippet.md",
+        "path": ".github/docs/imgs/code_snippet.md",
+        "sha": "d0846f4410da4049efc6e12bc4cf8954062d1a1d",
+        "url": "https://api.github.com/repositories/441326534/contents/.github/docs/imgs/code_snippet.md?ref=0f311b89f9f2bf04906ae6d91f7be442938b1b10",
+        "git_url": "https://api.github.com/repositories/441326534/git/blobs/d0846f4410da4049efc6e12bc4cf8954062d1a1d",
+        "html_url": "https://github.com/aws-samples/microservices-dotnet-aws-cdk/blob/0f311b89f9f2bf04906ae6d91f7be442938b1b10/.github/docs/imgs/code_snippet.md",
+        "repository": {
+          "id": 441326534,
+          "node_id": "R_kgDOGk4bxg",
+          "name": "microservices-dotnet-aws-cdk",
+          "full_name": "aws-samples/microservices-dotnet-aws-cdk",
+          "private": false,
+          "owner": {
+            "login": "aws-samples",
+            "id": 8931462,
+            "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MzE0NjI=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8931462?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/aws-samples",
+            "html_url": "https://github.com/aws-samples",
+            "followers_url": "https://api.github.com/users/aws-samples/followers",
+            "following_url": "https://api.github.com/users/aws-samples/following{/other_user}",
+            "gists_url": "https://api.github.com/users/aws-samples/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/aws-samples/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/aws-samples/subscriptions",
+            "organizations_url": "https://api.github.com/users/aws-samples/orgs",
+            "repos_url": "https://api.github.com/users/aws-samples/repos",
+            "events_url": "https://api.github.com/users/aws-samples/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/aws-samples/received_events",
+            "type": "Organization",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/aws-samples/microservices-dotnet-aws-cdk",
+          "description": "This repository contains a sample implementation of Fanout Architecture using .NET6 Worker Services to process messages from Amazon SNS Topic and Amazon SQS Queue. Since the Worker Services would have no UI, to operate this solution, you need Observability implemented. In this repository, you can also find sample .NET Observability implementation using the combination of AWS X-Ray and Amazon CloudWatch. To provision this solution, you can use AWS CDK to implement your modern Infrastructure as Code, using .NET C# to provision all AWS Resources your application needs.",
+          "fork": false,
+          "url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk",
+          "forks_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/forks",
+          "keys_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/teams",
+          "hooks_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/hooks",
+          "issue_events_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/events",
+          "assignees_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/tags",
+          "blobs_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/languages",
+          "stargazers_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/stargazers",
+          "contributors_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/contributors",
+          "subscribers_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/subscribers",
+          "subscription_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/subscription",
+          "commits_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/merges",
+          "archive_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/downloads",
+          "issues_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/labels{/name}",
+          "releases_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/aws-samples/microservices-dotnet-aws-cdk/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

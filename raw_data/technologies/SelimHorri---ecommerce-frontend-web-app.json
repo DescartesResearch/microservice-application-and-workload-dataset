@@ -1,0 +1,335 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "package.json",
+        "path": "package.json",
+        "sha": "edb3fe050caf7c51467938cd9c81313359a6fe2d",
+        "url": "https://api.github.com/repositories/427947389/contents/package.json?ref=b265bd3588c7710ddd40da5d2638f45c859d6df6",
+        "git_url": "https://api.github.com/repositories/427947389/git/blobs/edb3fe050caf7c51467938cd9c81313359a6fe2d",
+        "html_url": "https://github.com/SelimHorri/ecommerce-frontend-web-app/blob/b265bd3588c7710ddd40da5d2638f45c859d6df6/package.json",
+        "repository": {
+          "id": 427947389,
+          "node_id": "R_kgDOGYH1fQ",
+          "name": "ecommerce-frontend-web-app",
+          "full_name": "SelimHorri/ecommerce-frontend-web-app",
+          "private": false,
+          "owner": {
+            "login": "SelimHorri",
+            "id": 40203497,
+            "node_id": "MDQ6VXNlcjQwMjAzNDk3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40203497?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/SelimHorri",
+            "html_url": "https://github.com/SelimHorri",
+            "followers_url": "https://api.github.com/users/SelimHorri/followers",
+            "following_url": "https://api.github.com/users/SelimHorri/following{/other_user}",
+            "gists_url": "https://api.github.com/users/SelimHorri/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/SelimHorri/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/SelimHorri/subscriptions",
+            "organizations_url": "https://api.github.com/users/SelimHorri/orgs",
+            "repos_url": "https://api.github.com/users/SelimHorri/repos",
+            "events_url": "https://api.github.com/users/SelimHorri/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/SelimHorri/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/SelimHorri/ecommerce-frontend-web-app",
+          "description": "Angular app managing user friendly e-Commerce frontend served by a Spring Boot backend microservice application",
+          "fork": false,
+          "url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app",
+          "forks_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/forks",
+          "keys_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/teams",
+          "hooks_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/hooks",
+          "issue_events_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/events",
+          "assignees_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/tags",
+          "blobs_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/languages",
+          "stargazers_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/stargazers",
+          "contributors_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/contributors",
+          "subscribers_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/subscribers",
+          "subscription_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/subscription",
+          "commits_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/merges",
+          "archive_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/downloads",
+          "issues_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/labels{/name}",
+          "releases_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/SelimHorri/ecommerce-frontend-web-app/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "appsettings.json",
+        "path": "BanckAccountSystem/appsettings.json",
+        "sha": "ee6a2a4a2f648c9a773c0bbd9da531966651acbf",
+        "url": "https://api.github.com/repositories/223019571/contents/BanckAccountSystem/appsettings.json?ref=b88645b06664f80580891364f9bf792a24451ad2",
+        "git_url": "https://api.github.com/repositories/223019571/git/blobs/ee6a2a4a2f648c9a773c0bbd9da531966651acbf",
+        "html_url": "https://github.com/Defcoq/DDD/blob/b88645b06664f80580891364f9bf792a24451ad2/BanckAccountSystem/appsettings.json",
+        "repository": {
+          "id": 223019571,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyMjMwMTk1NzE=",
+          "name": "DDD",
+          "full_name": "Defcoq/DDD",
+          "private": false,
+          "owner": {
+            "login": "Defcoq",
+            "id": 4638497,
+            "node_id": "MDQ6VXNlcjQ2Mzg0OTc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4638497?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Defcoq",
+            "html_url": "https://github.com/Defcoq",
+            "followers_url": "https://api.github.com/users/Defcoq/followers",
+            "following_url": "https://api.github.com/users/Defcoq/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Defcoq/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Defcoq/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Defcoq/subscriptions",
+            "organizations_url": "https://api.github.com/users/Defcoq/orgs",
+            "repos_url": "https://api.github.com/users/Defcoq/repos",
+            "events_url": "https://api.github.com/users/Defcoq/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Defcoq/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/Defcoq/DDD",
+          "description": "Apply DDD in asp.net core microservice application ",
+          "fork": false,
+          "url": "https://api.github.com/repos/Defcoq/DDD",
+          "forks_url": "https://api.github.com/repos/Defcoq/DDD/forks",
+          "keys_url": "https://api.github.com/repos/Defcoq/DDD/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/Defcoq/DDD/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/Defcoq/DDD/teams",
+          "hooks_url": "https://api.github.com/repos/Defcoq/DDD/hooks",
+          "issue_events_url": "https://api.github.com/repos/Defcoq/DDD/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/Defcoq/DDD/events",
+          "assignees_url": "https://api.github.com/repos/Defcoq/DDD/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/Defcoq/DDD/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/Defcoq/DDD/tags",
+          "blobs_url": "https://api.github.com/repos/Defcoq/DDD/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/Defcoq/DDD/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/Defcoq/DDD/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/Defcoq/DDD/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/Defcoq/DDD/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/Defcoq/DDD/languages",
+          "stargazers_url": "https://api.github.com/repos/Defcoq/DDD/stargazers",
+          "contributors_url": "https://api.github.com/repos/Defcoq/DDD/contributors",
+          "subscribers_url": "https://api.github.com/repos/Defcoq/DDD/subscribers",
+          "subscription_url": "https://api.github.com/repos/Defcoq/DDD/subscription",
+          "commits_url": "https://api.github.com/repos/Defcoq/DDD/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/Defcoq/DDD/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/Defcoq/DDD/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/Defcoq/DDD/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/Defcoq/DDD/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/Defcoq/DDD/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/Defcoq/DDD/merges",
+          "archive_url": "https://api.github.com/repos/Defcoq/DDD/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/Defcoq/DDD/downloads",
+          "issues_url": "https://api.github.com/repos/Defcoq/DDD/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/Defcoq/DDD/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/Defcoq/DDD/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/Defcoq/DDD/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/Defcoq/DDD/labels{/name}",
+          "releases_url": "https://api.github.com/repos/Defcoq/DDD/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/Defcoq/DDD/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 3,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "SeedData.cs",
+        "path": "BanckAccountSystem/Models/SeedData.cs",
+        "sha": "a03c2e3f4642a96da67e3e8998766181f050c0eb",
+        "url": "https://api.github.com/repositories/223019571/contents/BanckAccountSystem/Models/SeedData.cs?ref=b88645b06664f80580891364f9bf792a24451ad2",
+        "git_url": "https://api.github.com/repositories/223019571/git/blobs/a03c2e3f4642a96da67e3e8998766181f050c0eb",
+        "html_url": "https://github.com/Defcoq/DDD/blob/b88645b06664f80580891364f9bf792a24451ad2/BanckAccountSystem/Models/SeedData.cs",
+        "repository": {
+          "id": 223019571,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyMjMwMTk1NzE=",
+          "name": "DDD",
+          "full_name": "Defcoq/DDD",
+          "private": false,
+          "owner": {
+            "login": "Defcoq",
+            "id": 4638497,
+            "node_id": "MDQ6VXNlcjQ2Mzg0OTc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4638497?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Defcoq",
+            "html_url": "https://github.com/Defcoq",
+            "followers_url": "https://api.github.com/users/Defcoq/followers",
+            "following_url": "https://api.github.com/users/Defcoq/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Defcoq/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Defcoq/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Defcoq/subscriptions",
+            "organizations_url": "https://api.github.com/users/Defcoq/orgs",
+            "repos_url": "https://api.github.com/users/Defcoq/repos",
+            "events_url": "https://api.github.com/users/Defcoq/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Defcoq/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/Defcoq/DDD",
+          "description": "Apply DDD in asp.net core microservice application ",
+          "fork": false,
+          "url": "https://api.github.com/repos/Defcoq/DDD",
+          "forks_url": "https://api.github.com/repos/Defcoq/DDD/forks",
+          "keys_url": "https://api.github.com/repos/Defcoq/DDD/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/Defcoq/DDD/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/Defcoq/DDD/teams",
+          "hooks_url": "https://api.github.com/repos/Defcoq/DDD/hooks",
+          "issue_events_url": "https://api.github.com/repos/Defcoq/DDD/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/Defcoq/DDD/events",
+          "assignees_url": "https://api.github.com/repos/Defcoq/DDD/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/Defcoq/DDD/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/Defcoq/DDD/tags",
+          "blobs_url": "https://api.github.com/repos/Defcoq/DDD/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/Defcoq/DDD/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/Defcoq/DDD/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/Defcoq/DDD/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/Defcoq/DDD/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/Defcoq/DDD/languages",
+          "stargazers_url": "https://api.github.com/repos/Defcoq/DDD/stargazers",
+          "contributors_url": "https://api.github.com/repos/Defcoq/DDD/contributors",
+          "subscribers_url": "https://api.github.com/repos/Defcoq/DDD/subscribers",
+          "subscription_url": "https://api.github.com/repos/Defcoq/DDD/subscription",
+          "commits_url": "https://api.github.com/repos/Defcoq/DDD/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/Defcoq/DDD/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/Defcoq/DDD/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/Defcoq/DDD/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/Defcoq/DDD/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/Defcoq/DDD/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/Defcoq/DDD/merges",
+          "archive_url": "https://api.github.com/repos/Defcoq/DDD/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/Defcoq/DDD/downloads",
+          "issues_url": "https://api.github.com/repos/Defcoq/DDD/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/Defcoq/DDD/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/Defcoq/DDD/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/Defcoq/DDD/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/Defcoq/DDD/labels{/name}",
+          "releases_url": "https://api.github.com/repos/Defcoq/DDD/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/Defcoq/DDD/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "appsettings.json",
+        "path": "BanckAccountSystem/appsettings.json",
+        "sha": "ee6a2a4a2f648c9a773c0bbd9da531966651acbf",
+        "url": "https://api.github.com/repositories/223019571/contents/BanckAccountSystem/appsettings.json?ref=b88645b06664f80580891364f9bf792a24451ad2",
+        "git_url": "https://api.github.com/repositories/223019571/git/blobs/ee6a2a4a2f648c9a773c0bbd9da531966651acbf",
+        "html_url": "https://github.com/Defcoq/DDD/blob/b88645b06664f80580891364f9bf792a24451ad2/BanckAccountSystem/appsettings.json",
+        "repository": {
+          "id": 223019571,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyMjMwMTk1NzE=",
+          "name": "DDD",
+          "full_name": "Defcoq/DDD",
+          "private": false,
+          "owner": {
+            "login": "Defcoq",
+            "id": 4638497,
+            "node_id": "MDQ6VXNlcjQ2Mzg0OTc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4638497?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Defcoq",
+            "html_url": "https://github.com/Defcoq",
+            "followers_url": "https://api.github.com/users/Defcoq/followers",
+            "following_url": "https://api.github.com/users/Defcoq/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Defcoq/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Defcoq/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Defcoq/subscriptions",
+            "organizations_url": "https://api.github.com/users/Defcoq/orgs",
+            "repos_url": "https://api.github.com/users/Defcoq/repos",
+            "events_url": "https://api.github.com/users/Defcoq/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Defcoq/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/Defcoq/DDD",
+          "description": "Apply DDD in asp.net core microservice application ",
+          "fork": false,
+          "url": "https://api.github.com/repos/Defcoq/DDD",
+          "forks_url": "https://api.github.com/repos/Defcoq/DDD/forks",
+          "keys_url": "https://api.github.com/repos/Defcoq/DDD/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/Defcoq/DDD/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/Defcoq/DDD/teams",
+          "hooks_url": "https://api.github.com/repos/Defcoq/DDD/hooks",
+          "issue_events_url": "https://api.github.com/repos/Defcoq/DDD/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/Defcoq/DDD/events",
+          "assignees_url": "https://api.github.com/repos/Defcoq/DDD/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/Defcoq/DDD/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/Defcoq/DDD/tags",
+          "blobs_url": "https://api.github.com/repos/Defcoq/DDD/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/Defcoq/DDD/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/Defcoq/DDD/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/Defcoq/DDD/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/Defcoq/DDD/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/Defcoq/DDD/languages",
+          "stargazers_url": "https://api.github.com/repos/Defcoq/DDD/stargazers",
+          "contributors_url": "https://api.github.com/repos/Defcoq/DDD/contributors",
+          "subscribers_url": "https://api.github.com/repos/Defcoq/DDD/subscribers",
+          "subscription_url": "https://api.github.com/repos/Defcoq/DDD/subscription",
+          "commits_url": "https://api.github.com/repos/Defcoq/DDD/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/Defcoq/DDD/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/Defcoq/DDD/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/Defcoq/DDD/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/Defcoq/DDD/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/Defcoq/DDD/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/Defcoq/DDD/merges",
+          "archive_url": "https://api.github.com/repos/Defcoq/DDD/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/Defcoq/DDD/downloads",
+          "issues_url": "https://api.github.com/repos/Defcoq/DDD/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/Defcoq/DDD/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/Defcoq/DDD/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/Defcoq/DDD/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/Defcoq/DDD/labels{/name}",
+          "releases_url": "https://api.github.com/repos/Defcoq/DDD/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/Defcoq/DDD/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "Startup.cs",
+        "path": "BanckAccountSystem/Startup.cs",
+        "sha": "8770eb4e5ee0d38a91232df92d38d2077d1343b7",
+        "url": "https://api.github.com/repositories/223019571/contents/BanckAccountSystem/Startup.cs?ref=b88645b06664f80580891364f9bf792a24451ad2",
+        "git_url": "https://api.github.com/repositories/223019571/git/blobs/8770eb4e5ee0d38a91232df92d38d2077d1343b7",
+        "html_url": "https://github.com/Defcoq/DDD/blob/b88645b06664f80580891364f9bf792a24451ad2/BanckAccountSystem/Startup.cs",
+        "repository": {
+          "id": 223019571,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyMjMwMTk1NzE=",
+          "name": "DDD",
+          "full_name": "Defcoq/DDD",
+          "private": false,
+          "owner": {
+            "login": "Defcoq",
+            "id": 4638497,
+            "node_id": "MDQ6VXNlcjQ2Mzg0OTc=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4638497?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Defcoq",
+            "html_url": "https://github.com/Defcoq",
+            "followers_url": "https://api.github.com/users/Defcoq/followers",
+            "following_url": "https://api.github.com/users/Defcoq/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Defcoq/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Defcoq/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Defcoq/subscriptions",
+            "organizations_url": "https://api.github.com/users/Defcoq/orgs",
+            "repos_url": "https://api.github.com/users/Defcoq/repos",
+            "events_url": "https://api.github.com/users/Defcoq/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Defcoq/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/Defcoq/DDD",
+          "description": "Apply DDD in asp.net core microservice application ",
+          "fork": false,
+          "url": "https://api.github.com/repos/Defcoq/DDD",
+          "forks_url": "https://api.github.com/repos/Defcoq/DDD/forks",
+          "keys_url": "https://api.github.com/repos/Defcoq/DDD/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/Defcoq/DDD/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/Defcoq/DDD/teams",
+          "hooks_url": "https://api.github.com/repos/Defcoq/DDD/hooks",
+          "issue_events_url": "https://api.github.com/repos/Defcoq/DDD/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/Defcoq/DDD/events",
+          "assignees_url": "https://api.github.com/repos/Defcoq/DDD/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/Defcoq/DDD/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/Defcoq/DDD/tags",
+          "blobs_url": "https://api.github.com/repos/Defcoq/DDD/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/Defcoq/DDD/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/Defcoq/DDD/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/Defcoq/DDD/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/Defcoq/DDD/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/Defcoq/DDD/languages",
+          "stargazers_url": "https://api.github.com/repos/Defcoq/DDD/stargazers",
+          "contributors_url": "https://api.github.com/repos/Defcoq/DDD/contributors",
+          "subscribers_url": "https://api.github.com/repos/Defcoq/DDD/subscribers",
+          "subscription_url": "https://api.github.com/repos/Defcoq/DDD/subscription",
+          "commits_url": "https://api.github.com/repos/Defcoq/DDD/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/Defcoq/DDD/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/Defcoq/DDD/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/Defcoq/DDD/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/Defcoq/DDD/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/Defcoq/DDD/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/Defcoq/DDD/merges",
+          "archive_url": "https://api.github.com/repos/Defcoq/DDD/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/Defcoq/DDD/downloads",
+          "issues_url": "https://api.github.com/repos/Defcoq/DDD/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/Defcoq/DDD/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/Defcoq/DDD/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/Defcoq/DDD/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/Defcoq/DDD/labels{/name}",
+          "releases_url": "https://api.github.com/repos/Defcoq/DDD/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/Defcoq/DDD/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

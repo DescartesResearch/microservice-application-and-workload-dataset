@@ -1,0 +1,257 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

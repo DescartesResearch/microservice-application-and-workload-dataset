@@ -1,0 +1,720 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 6,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "1ac6a6847ab1207a980a9e2daf87496ccd37e7c6",
+        "url": "https://api.github.com/repositories/389396499/contents/README.md?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/1ac6a6847ab1207a980a9e2daf87496ccd37e7c6",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/README.md",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "Usings.cs",
+        "path": "Global/Usings.cs",
+        "sha": "b8c62c65fc8f017b8ba7320dc58dfecd231c1d4a",
+        "url": "https://api.github.com/repositories/389396499/contents/Global/Usings.cs?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/b8c62c65fc8f017b8ba7320dc58dfecd231c1d4a",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/Global/Usings.cs",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "Program.cs",
+        "path": "Program.cs",
+        "sha": "2d099e0bc82bedd4a59fbd08121cde98bc5908c6",
+        "url": "https://api.github.com/repositories/389396499/contents/Program.cs?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/2d099e0bc82bedd4a59fbd08121cde98bc5908c6",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/Program.cs",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "RavenDbContext.cs",
+        "path": "Data/Context/RavenDbContext.cs",
+        "sha": "7af3d38d44e815e9ceb58c295af20f03ce0e4d2b",
+        "url": "https://api.github.com/repositories/389396499/contents/Data/Context/RavenDbContext.cs?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/7af3d38d44e815e9ceb58c295af20f03ce0e4d2b",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/Data/Context/RavenDbContext.cs",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "appsettings.json",
+        "path": "appsettings.json",
+        "sha": "5218d0431209db4fba0738fdc42ffd7eac5de198",
+        "url": "https://api.github.com/repositories/389396499/contents/appsettings.json?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/5218d0431209db4fba0738fdc42ffd7eac5de198",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/appsettings.json",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "PersistenceSettings.cs",
+        "path": "Models/Persistence/PersistenceSettings.cs",
+        "sha": "178626ca8b76fd3a789334b90ad811c416dbd870",
+        "url": "https://api.github.com/repositories/389396499/contents/Models/Persistence/PersistenceSettings.cs?ref=71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c",
+        "git_url": "https://api.github.com/repositories/389396499/git/blobs/178626ca8b76fd3a789334b90ad811c416dbd870",
+        "html_url": "https://github.com/zangassis/raven-shop/blob/71fbc0867e7d006b4f45fa176f14f6dafc4bfa3c/Models/Persistence/PersistenceSettings.cs",
+        "repository": {
+          "id": 389396499,
+          "node_id": "MDEwOlJlcG9zaXRvcnkzODkzOTY0OTk=",
+          "name": "raven-shop",
+          "full_name": "zangassis/raven-shop",
+          "private": false,
+          "owner": {
+            "login": "zangassis",
+            "id": 40374785,
+            "node_id": "MDQ6VXNlcjQwMzc0Nzg1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40374785?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/zangassis",
+            "html_url": "https://github.com/zangassis",
+            "followers_url": "https://api.github.com/users/zangassis/followers",
+            "following_url": "https://api.github.com/users/zangassis/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zangassis/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/zangassis/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zangassis/subscriptions",
+            "organizations_url": "https://api.github.com/users/zangassis/orgs",
+            "repos_url": "https://api.github.com/users/zangassis/repos",
+            "events_url": "https://api.github.com/users/zangassis/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/zangassis/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/zangassis/raven-shop",
+          "description": "A .NET 6 application using RavenDB 🐦",
+          "fork": false,
+          "url": "https://api.github.com/repos/zangassis/raven-shop",
+          "forks_url": "https://api.github.com/repos/zangassis/raven-shop/forks",
+          "keys_url": "https://api.github.com/repos/zangassis/raven-shop/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/zangassis/raven-shop/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/zangassis/raven-shop/teams",
+          "hooks_url": "https://api.github.com/repos/zangassis/raven-shop/hooks",
+          "issue_events_url": "https://api.github.com/repos/zangassis/raven-shop/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/zangassis/raven-shop/events",
+          "assignees_url": "https://api.github.com/repos/zangassis/raven-shop/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/zangassis/raven-shop/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/zangassis/raven-shop/tags",
+          "blobs_url": "https://api.github.com/repos/zangassis/raven-shop/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/zangassis/raven-shop/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/zangassis/raven-shop/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/zangassis/raven-shop/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/zangassis/raven-shop/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/zangassis/raven-shop/languages",
+          "stargazers_url": "https://api.github.com/repos/zangassis/raven-shop/stargazers",
+          "contributors_url": "https://api.github.com/repos/zangassis/raven-shop/contributors",
+          "subscribers_url": "https://api.github.com/repos/zangassis/raven-shop/subscribers",
+          "subscription_url": "https://api.github.com/repos/zangassis/raven-shop/subscription",
+          "commits_url": "https://api.github.com/repos/zangassis/raven-shop/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/zangassis/raven-shop/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/zangassis/raven-shop/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/zangassis/raven-shop/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/zangassis/raven-shop/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/zangassis/raven-shop/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/zangassis/raven-shop/merges",
+          "archive_url": "https://api.github.com/repos/zangassis/raven-shop/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/zangassis/raven-shop/downloads",
+          "issues_url": "https://api.github.com/repos/zangassis/raven-shop/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/zangassis/raven-shop/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/zangassis/raven-shop/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/zangassis/raven-shop/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/zangassis/raven-shop/labels{/name}",
+          "releases_url": "https://api.github.com/repos/zangassis/raven-shop/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/zangassis/raven-shop/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

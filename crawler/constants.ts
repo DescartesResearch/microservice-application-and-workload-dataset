@@ -1,0 +1,42 @@
+import * as path from "jsr:@std/path";
+
+const OUTPUT_BASE = "../raw_data/";
+const APPLICATION_OUTPUT_DIR = "applications/";
+export const APPLICATION_OUTPUT_BASE = path.join(
+	OUTPUT_BASE,
+	APPLICATION_OUTPUT_DIR,
+);
+const FILTER_FILENAME = "automatic_filtering.json";
+export const APPLICATION_AUTOMATIC_FILTERING = path.join(
+	APPLICATION_OUTPUT_BASE,
+	FILTER_FILENAME,
+);
+const SPREADSHEET_FILENAME = "spreadsheet.csv";
+export const APPLICATION_SPREADSHEET_IMPORT = path.join(
+	APPLICATION_OUTPUT_BASE,
+	SPREADSHEET_FILENAME,
+);
+const WORKLOAD_OUTPUT_DIR = "workloads/";
+export const WORKLOAD_OUTPUT_BASE = path.join(OUTPUT_BASE, WORKLOAD_OUTPUT_DIR);
+export const WORKLOAD_AUTOMATIC_FILTERING = path.join(
+	WORKLOAD_OUTPUT_BASE,
+	FILTER_FILENAME,
+);
+export const WORKLOAD_SPREADSHEET_IMPORT = path.join(
+	WORKLOAD_OUTPUT_BASE,
+	SPREADSHEET_FILENAME,
+);
+
+const TECHNOLOGIES_OUTPUT_DIR = "technologies";
+export const TECHNOLOGIES_OUTPUT_BASE = path.join(
+	OUTPUT_BASE,
+	TECHNOLOGIES_OUTPUT_DIR,
+);
+const CONTAINERIZATION_OUTPUT_DIR = "containerization";
+export const CONTAINERIZATION_OUTPUT_BASE = path.join(
+	OUTPUT_BASE,
+	CONTAINERIZATION_OUTPUT_DIR,
+);
+
+const COMPONENTS_FILENAME = "application_components.csv";
+export const COMPONENTS_FILE_PATH = path.join(OUTPUT_BASE, COMPONENTS_FILENAME);

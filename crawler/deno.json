@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "search:applications": "deno run --allow-env --env-file --allow-net --allow-write search.ts applications"
+    "search:workloads": "deno run --allow-env --env-file --allow-net --allow-write search.ts workloads"
+    "filter:applications": "deno run --allow-read --allow-write filter.ts applications"
+    "filter:workloads": "deno run --allow-read --allow-write filter.ts workloads"
+    "code:technologies": "deno run --env-file --allow-env --allow-net --allow-read --allow-write code.ts technologies"
+    "code:containerization": "deno run --env-file --allow-env --allow-net --allow-read --allow-write code.ts containerization"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "@std/csv": "jsr:@std/csv@^1.0.5",
+    "@std/datetime": "jsr:@std/datetime@^0.225.2",
+    "@std/path": "jsr:@std/path@^1.0.8",
+    "zod": "npm:zod@^3.24.1"
+  }
+}

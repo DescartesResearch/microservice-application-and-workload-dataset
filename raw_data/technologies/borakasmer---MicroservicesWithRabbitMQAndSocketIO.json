@@ -1,0 +1,567 @@
+{
+  "Prometheus": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MongoDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MySQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OracleDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SnowflakeDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "PostgreSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MsSQL": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Redis": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Cassandra": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MariaDB": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Database": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "MinIO": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "React": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "NextJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Svelte": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "SvelteKit": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "VueJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Nuxt": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "AngularJS": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "package.json",
+        "path": "StockUI/package.json",
+        "sha": "3eba56cabb3ea6305b311cff3a9a02c354ef9c73",
+        "url": "https://api.github.com/repositories/264558151/contents/StockUI/package.json?ref=f3dd89eb434a287950ee0dda28599a9ad95ebe90",
+        "git_url": "https://api.github.com/repositories/264558151/git/blobs/3eba56cabb3ea6305b311cff3a9a02c354ef9c73",
+        "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO/blob/f3dd89eb434a287950ee0dda28599a9ad95ebe90/StockUI/package.json",
+        "repository": {
+          "id": 264558151,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyNjQ1NTgxNTE=",
+          "name": "MicroservicesWithRabbitMQAndSocketIO",
+          "full_name": "borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "private": false,
+          "owner": {
+            "login": "borakasmer",
+            "id": 9459881,
+            "node_id": "MDQ6VXNlcjk0NTk4ODE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9459881?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/borakasmer",
+            "html_url": "https://github.com/borakasmer",
+            "followers_url": "https://api.github.com/users/borakasmer/followers",
+            "following_url": "https://api.github.com/users/borakasmer/following{/other_user}",
+            "gists_url": "https://api.github.com/users/borakasmer/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/borakasmer/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/borakasmer/subscriptions",
+            "organizations_url": "https://api.github.com/users/borakasmer/orgs",
+            "repos_url": "https://api.github.com/users/borakasmer/repos",
+            "events_url": "https://api.github.com/users/borakasmer/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/borakasmer/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "description": "In this application, we will try to informed customers who buy the stock papers when the price changed. We will use NodeJs for the backend application. For improving the performance, we will use RabbitMQ, and we will write microservice as a consumer. We will send updated stock data by using SocketIO to the clients. For front-end application, we will use Angular 9",
+          "fork": false,
+          "url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "forks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/forks",
+          "keys_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/teams",
+          "hooks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/hooks",
+          "issue_events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/events",
+          "assignees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/tags",
+          "blobs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/languages",
+          "stargazers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/stargazers",
+          "contributors_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contributors",
+          "subscribers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscribers",
+          "subscription_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscription",
+          "commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/merges",
+          "archive_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/downloads",
+          "issues_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/labels{/name}",
+          "releases_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "AnalogJS": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Jaeger": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zipkin": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "OpenTelemetry": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Logstash": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Filebeat": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "ElasticSearch": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kafka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "RabbitMQ": {
+    "total_count": 3,
+    "incomplete_results": false,
+    "items": [
+      {
+        "name": "rabbitMQ.js",
+        "path": "rabbitMQ.js",
+        "sha": "029b9d84e4b608cf76f97ea9bd76fafffcc48849",
+        "url": "https://api.github.com/repositories/264558151/contents/rabbitMQ.js?ref=f3dd89eb434a287950ee0dda28599a9ad95ebe90",
+        "git_url": "https://api.github.com/repositories/264558151/git/blobs/029b9d84e4b608cf76f97ea9bd76fafffcc48849",
+        "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO/blob/f3dd89eb434a287950ee0dda28599a9ad95ebe90/rabbitMQ.js",
+        "repository": {
+          "id": 264558151,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyNjQ1NTgxNTE=",
+          "name": "MicroservicesWithRabbitMQAndSocketIO",
+          "full_name": "borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "private": false,
+          "owner": {
+            "login": "borakasmer",
+            "id": 9459881,
+            "node_id": "MDQ6VXNlcjk0NTk4ODE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9459881?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/borakasmer",
+            "html_url": "https://github.com/borakasmer",
+            "followers_url": "https://api.github.com/users/borakasmer/followers",
+            "following_url": "https://api.github.com/users/borakasmer/following{/other_user}",
+            "gists_url": "https://api.github.com/users/borakasmer/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/borakasmer/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/borakasmer/subscriptions",
+            "organizations_url": "https://api.github.com/users/borakasmer/orgs",
+            "repos_url": "https://api.github.com/users/borakasmer/repos",
+            "events_url": "https://api.github.com/users/borakasmer/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/borakasmer/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "description": "In this application, we will try to informed customers who buy the stock papers when the price changed. We will use NodeJs for the backend application. For improving the performance, we will use RabbitMQ, and we will write microservice as a consumer. We will send updated stock data by using SocketIO to the clients. For front-end application, we will use Angular 9",
+          "fork": false,
+          "url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "forks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/forks",
+          "keys_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/teams",
+          "hooks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/hooks",
+          "issue_events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/events",
+          "assignees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/tags",
+          "blobs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/languages",
+          "stargazers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/stargazers",
+          "contributors_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contributors",
+          "subscribers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscribers",
+          "subscription_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscription",
+          "commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/merges",
+          "archive_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/downloads",
+          "issues_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/labels{/name}",
+          "releases_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "rabbitMQ.drawio",
+        "path": "rabbitMQ.drawio",
+        "sha": "ea50d4d6798478e65e7478cfbd334c90ee4f71af",
+        "url": "https://api.github.com/repositories/264558151/contents/rabbitMQ.drawio?ref=f3dd89eb434a287950ee0dda28599a9ad95ebe90",
+        "git_url": "https://api.github.com/repositories/264558151/git/blobs/ea50d4d6798478e65e7478cfbd334c90ee4f71af",
+        "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO/blob/f3dd89eb434a287950ee0dda28599a9ad95ebe90/rabbitMQ.drawio",
+        "repository": {
+          "id": 264558151,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyNjQ1NTgxNTE=",
+          "name": "MicroservicesWithRabbitMQAndSocketIO",
+          "full_name": "borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "private": false,
+          "owner": {
+            "login": "borakasmer",
+            "id": 9459881,
+            "node_id": "MDQ6VXNlcjk0NTk4ODE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9459881?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/borakasmer",
+            "html_url": "https://github.com/borakasmer",
+            "followers_url": "https://api.github.com/users/borakasmer/followers",
+            "following_url": "https://api.github.com/users/borakasmer/following{/other_user}",
+            "gists_url": "https://api.github.com/users/borakasmer/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/borakasmer/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/borakasmer/subscriptions",
+            "organizations_url": "https://api.github.com/users/borakasmer/orgs",
+            "repos_url": "https://api.github.com/users/borakasmer/repos",
+            "events_url": "https://api.github.com/users/borakasmer/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/borakasmer/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "description": "In this application, we will try to informed customers who buy the stock papers when the price changed. We will use NodeJs for the backend application. For improving the performance, we will use RabbitMQ, and we will write microservice as a consumer. We will send updated stock data by using SocketIO to the clients. For front-end application, we will use Angular 9",
+          "fork": false,
+          "url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "forks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/forks",
+          "keys_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/teams",
+          "hooks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/hooks",
+          "issue_events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/events",
+          "assignees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/tags",
+          "blobs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/languages",
+          "stargazers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/stargazers",
+          "contributors_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contributors",
+          "subscribers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscribers",
+          "subscription_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscription",
+          "commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/merges",
+          "archive_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/downloads",
+          "issues_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/labels{/name}",
+          "releases_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/deployments"
+        },
+        "score": 1
+      },
+      {
+        "name": "service.js",
+        "path": "service.js",
+        "sha": "55c5008bf8496ce5d5da4ee6bdb8e047576ce793",
+        "url": "https://api.github.com/repositories/264558151/contents/service.js?ref=f3dd89eb434a287950ee0dda28599a9ad95ebe90",
+        "git_url": "https://api.github.com/repositories/264558151/git/blobs/55c5008bf8496ce5d5da4ee6bdb8e047576ce793",
+        "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO/blob/f3dd89eb434a287950ee0dda28599a9ad95ebe90/service.js",
+        "repository": {
+          "id": 264558151,
+          "node_id": "MDEwOlJlcG9zaXRvcnkyNjQ1NTgxNTE=",
+          "name": "MicroservicesWithRabbitMQAndSocketIO",
+          "full_name": "borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "private": false,
+          "owner": {
+            "login": "borakasmer",
+            "id": 9459881,
+            "node_id": "MDQ6VXNlcjk0NTk4ODE=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9459881?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/borakasmer",
+            "html_url": "https://github.com/borakasmer",
+            "followers_url": "https://api.github.com/users/borakasmer/followers",
+            "following_url": "https://api.github.com/users/borakasmer/following{/other_user}",
+            "gists_url": "https://api.github.com/users/borakasmer/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/borakasmer/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/borakasmer/subscriptions",
+            "organizations_url": "https://api.github.com/users/borakasmer/orgs",
+            "repos_url": "https://api.github.com/users/borakasmer/repos",
+            "events_url": "https://api.github.com/users/borakasmer/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/borakasmer/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "description": "In this application, we will try to informed customers who buy the stock papers when the price changed. We will use NodeJs for the backend application. For improving the performance, we will use RabbitMQ, and we will write microservice as a consumer. We will send updated stock data by using SocketIO to the clients. For front-end application, we will use Angular 9",
+          "fork": false,
+          "url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO",
+          "forks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/forks",
+          "keys_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/teams",
+          "hooks_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/hooks",
+          "issue_events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/events",
+          "assignees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/tags",
+          "blobs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/languages",
+          "stargazers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/stargazers",
+          "contributors_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contributors",
+          "subscribers_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscribers",
+          "subscription_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/subscription",
+          "commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/merges",
+          "archive_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/downloads",
+          "issues_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/labels{/name}",
+          "releases_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/borakasmer/MicroservicesWithRabbitMQAndSocketIO/deployments"
+        },
+        "score": 1
+      }
+    ]
+  },
+  "Nats": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Dapr": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Consul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Istio": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "nginx": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zuul": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kong": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Envoy": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Traefik": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Ocelot": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Zookeeper": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Hystrix": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kiali": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Grafana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kibana": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Akhq": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Portainer": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Keycloak": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Vault": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Eureka": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Locust": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "K6": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "JMeter": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}

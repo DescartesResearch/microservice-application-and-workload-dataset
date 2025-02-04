@@ -1,0 +1,17 @@
+{
+  "Dockerfile": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "DockerCompose": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "Kubernetes": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  }
+}
